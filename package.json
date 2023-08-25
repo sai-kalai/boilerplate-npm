@@ -1,6 +1,7 @@
 {
 	"author": "simon cadavid",
 	"license": "MIT",
+	"version": "0.69.0",
 	"keywords": ["freecodecamp", "test", "project", "webdev"],
 	"name": "fcc-learn-npm-package-json",
 	"description": "This project is a test",
