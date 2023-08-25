@@ -1,5 +1,6 @@
 {
 	"author": "simon cadavid",
+	"keywords": ["test", "project", "webdev"],
 	"name": "fcc-learn-npm-package-json",
 	"description": "This project is a test",
 	"dependencies": {
